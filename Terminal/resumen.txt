@@ -1,0 +1,7 @@
+Comandos aprendidos en  clase
+
+git --version: para ver la version de nuestro git
+git init: para inicializar un repo
+git status: para conocer el status de nuestros archivos
+git commit -m "mensaje" :para confirmar los cambios 
+git branch: para enlistar todas las branch en mi local

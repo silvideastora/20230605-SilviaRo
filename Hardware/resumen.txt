@@ -1,0 +1,6 @@
+Enumera tres partes internas de la computadora:
+
+1. Procesador
+2. Placa madre
+3. SSD
+4. Kernel
