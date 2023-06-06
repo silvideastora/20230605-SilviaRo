@@ -1,0 +1,7 @@
+git init
+git status
+git remote add origin https://github.com/silvideastora/20230605-SilviaRo.git
+git checkout -b feature01
+git checkout -b feature02
+git commit -m "mensajes de commit con nombre"
+git push origin "el nombre de la rama" para actualizar los archivos en el repo remoto
